@@ -1,4 +1,4 @@
-# Quantum Computing Class COT 5600 with Professor Wocjan
+# Quantum Computing COT5600
 
 ## Assignments
 
